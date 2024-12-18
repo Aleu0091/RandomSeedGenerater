@@ -76,5 +76,6 @@ function generateRandomSeed() {
     return ultimateSeed;
 }
 
-const ultraSecureSeed = generateRandomSeed();
-console.log(ultraSecureSeed);
+module.exports = {
+    generateRandomSeed
+};
