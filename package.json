@@ -1,0 +1,8 @@
+{
+    "name": "RandomSeedGenerater",
+    "version": "1.0.0",
+    "author": "aleu0091",
+    "dependencies": {
+      "crypto": "^1.0.1",
+    }
+}
